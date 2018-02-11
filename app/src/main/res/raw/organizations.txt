@@ -1,0 +1,80 @@
+1
+- Fall alternative break
+Environment
+Community
+Trip
+2
+- Spring alternative break
+Environment
+Community
+Trip
+3
+- Summer alternative break
+Environment
+Environment
+Trip
+4
+- Cayuga Nature center
+Environment
+Environment
+On-Going
+5
+- Museum of Earth
+Education
+Community
+Weekend
+6
+- Tompkins County Library
+Education
+Community
+Day
+7
+- Sciencenter
+Education
+Community
+On-Going
+8
+- Wood's Earth
+Education
+Environment
+On-Going
+9
+- Big brother and big sister
+Social-Work
+Kids
+On-Going
+10
+- Community building works
+Social-Work
+Community
+On-Going
+11
+- 2-1-1 Tompkins
+Social-Work
+Community
+On-Going
+12
+- IC Red Cross
+Social-Work
+Community
+On-Going
+13
+- Ithaca Underground
+Art
+Community
+On-Going
+14
+- Cayuga Nature center
+Art
+Environment
+Day
+15
+- Johnson Museum of Art
+Art
+Community
+Weekend
+16
+- Handwerker Gallery
+Art
+Community
+On-Going
